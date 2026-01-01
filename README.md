@@ -1,5 +1,6 @@
 <h1 align="left">haiii:33</h1>
 <h3 align="left">Moved over to Codeberg .3.</h3>
+<sup>sorry, fuck ms</sup>
 <a href="https://codeberg.org/cosmoere">Codeberg Profile</a>
 
 ###
